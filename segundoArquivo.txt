@@ -1,2 +1,3 @@
 Segundo arquivo no formato txt para a prática em dupla do BootcampGo. Alteração nesse arquivo para forcar conflito de emerge
 O gato comeu a roupa do rei de Roma.
+Sabia que o sabiá sabia assobiar?
