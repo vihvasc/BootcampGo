@@ -1,1 +1,1 @@
-Segundo arquivo no formato txt para a prática em dupla do BootcampGo.
+Segundo arquivo no formato txt para a prática em dupla do BootcampGo. Alteração nesse arquivo para forcar conflito de emerge
