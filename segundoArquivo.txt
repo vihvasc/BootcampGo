@@ -1,1 +1,3 @@
 Segundo arquivo no formato txt para a prática em dupla do BootcampGo. Alteração nesse arquivo para forcar conflito de emerge
+
+Sabia que o sabiá sabia assobiar?
